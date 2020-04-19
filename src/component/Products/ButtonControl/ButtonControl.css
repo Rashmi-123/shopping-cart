@@ -1,0 +1,87 @@
+.BuildControl{
+    display: flex;
+    padding-top: 30px;
+}
+button.addTocontrol {
+    color: #ffffff;
+    background: rgb(8, 33, 38);
+    padding: 5px;
+    border-radius: 10px;
+    width: 145px;
+    font-size: 16px;
+    height: 45px;
+    font-weight: 700;
+    border: 1px solid rgb(8, 33, 38);
+}
+button.calculate-button{
+    color: #ffffff;
+    background: rgb(8, 33, 38);
+    padding: 5px;
+    border-radius: 30px;
+    width: 60px;
+    height: 45px;
+    font-size: 25px;
+    font-weight: 700;
+    border: 1px solid rgb(8, 33, 38);
+}
+button.increment{
+    margin-left: 50px;
+}
+.quantity{
+    padding: 8px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .BuildControl{
+        padding-top: 10px;
+    }
+    button.addTocontrol{
+        width: 80px;
+        font-size: 10px;
+        height: 40px;
+        font-weight: 700;
+        
+    }
+    .product{
+        font-size: 13px;
+        line-height: 1.2;   
+    }
+    button.increment{
+        margin-left: 30px;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+   
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+   
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .BuildControl{
+        
+        padding-top: 30px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .BuildControl{
+        padding-top: 45px;
+    }
+    
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    
+}
+

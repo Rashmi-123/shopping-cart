@@ -1,0 +1,64 @@
+.product{
+    /* background-color: brown; */
+    /* width: 65%; */
+    line-height: 1.8;   
+}
+.brand-name{
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px) {
+    .brand-name{
+        font-size: 18px;
+        font-weight: bolder;
+    }
+    .product{
+        font-size: 13px;
+        line-height: 1.5 !important;   
+    }
+   
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .brand-name{
+        font-size: 20px;
+        font-weight: bolder;
+    }
+    .product{
+        
+        line-height: 1.6;   
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .brand-name{
+        font-size: 25px;
+        font-weight: bolder;
+    }
+    .product{
+        
+        line-height: 1.6;   
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .brand-name{
+    font-size: 30px;
+    font-weight: bolder;
+}
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .brand-name{
+        font-size: 35px;
+        font-weight: bolder;
+    }
+}
+
+

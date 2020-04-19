@@ -1,0 +1,103 @@
+[
+    {
+        "Brandname":"WishCare Premium oil",
+        "Productname":"WishCare Premium Cold Pressed Extra-Virgin Coconut Oil Coconut Oil Jar  (500 ml)",
+        "Quantity":"500 ml",
+        "TotalQuantity":0,
+        "Price":429,
+        "MRF":480,
+        "ImageURL":"/image/500-premium-cold-pressed-extra-virgin-coconut-oil-wide-mouth-jar-original-imafcghpttfsgyne.jpeg",
+        "OfferText":"10%"
+    },
+    {
+        "Brandname":"Fortune Sunlite Refined Sunflower Oil",
+        "Productname":"Fortune Sunlite Refined Sunflower Oil Pouch  (1 L)",
+        "Quantity":"1 L",
+        "TotalQuantity":0,
+        "Price":98,
+        "MRF":120,
+        "ImageURL":"/image/1-sunlite-refined-pouch-sunflower-oil-fortune-original-imafpzwhyyhhvzbk.jpeg",
+        "OfferText":"18%"
+    },
+    {
+        "Brandname":"WOW Life Science Coconut Oil",
+        "Productname":"WOW Life Science Extra Virgin Coconut Oil -400mL Coconut Oil Plastic Bottle  (400 ml)",
+        "Quantity":"500 ml",
+        "TotalQuantity":0,
+        "Price":479,
+        "MRF":499,
+        "ImageURL":"/image/400-extra-virgin-coconut-oil-pure-natural-enriching-nourishing-original-imafzcahnzmwehcx.jpeg",
+        "OfferText":"20%"
+    },
+    {
+        "Brandname":"Farm Naturelle Desi Gheee",
+        "Productname":"Farm Naturelle 100% Pure A2 Gir Cow Desi Ghee (300 ml) 300 g Plastic Bottle",
+        "Quantity":"1 L",
+        "TotalQuantity":0,
+        "Price":711,
+        "MRF":875,
+        "ImageURL":"/image/300-100-pure-a2-gir-cow-desi-ghee-300-ml-plastic-bottle-farm-original-imafgu9uyutgeznw.jpeg",
+        "OfferText":"18%"
+    },
+    {
+        "Brandname":"Sunrich Refined Sunflower Oil",
+        "Productname":"Sunrich Refined Sunflower Oil Pouch  (1 L)",
+        "Quantity":"1 L",
+        "TotalQuantity":0,
+        "Price":108,
+        "MRF":125,
+        "ImageURL":"/image/1-refined-pouch-sunflower-oil-sunrich-original-imaezgzzqcda2gtq.jpeg",
+        "OfferText":"13%"
+    },
+    {
+        "Brandname":"Del Monte Classic Olive Oil",
+        "Productname":"Del Monte Classic Olive Oil Tin  (200 ml)",
+        "Quantity":"1 L",
+        "TotalQuantity":0,
+        "Price":176,
+        "MRF":200,
+        "ImageURL":"/image/200-classic-tin-olive-oil-del-monte-original-imaeynbp682ntzwy.jpeg",
+        "OfferText":"12%"
+    },
+    {
+        "Brandname":"Saffola Aura Refined Flaxseed Olive Oil",
+        "Productname":"Saffola Aura Refined Flaxseed Olive Oil Plastic Bottle  (500 ml)",
+        "Quantity":"1 L",
+        "TotalQuantity":0,
+        "Price":300,
+        "MRF":550,
+        "ImageURL":"/image/500-aura-refined-flaxseed-glass-bottle-olive-oil-saffola-original-imafaxthzxrzaddr.jpeg",
+        "OfferText":"45%"
+    },
+    {
+        "Brandname":"Speaking tree Organic oil",
+        "Productname":"Speaking tree Organic and Extra Virgin Coconut Oil 200 ml Coconut Oil Plastic Bottle  (200 ml)",
+        "Quantity":"500 ml",
+        "TotalQuantity":0,
+        "Price":243,
+        "MRF":285,
+        "ImageURL":"/image/200-organic-and-extra-virgin-coconut-oil-200-ml-plastic-bottle-original-imaffg8spc9yge22.jpeg",
+        "OfferText":"14%"
+    },
+    {
+        "Brandname":"Natures Velvet Lifecare Coconut Oil",
+        "Productname":"Natures Velvet Lifecare Virgin Coconut Oil 250ml for Cooking",
+        "Quantity":"500 ml",
+        "TotalQuantity":0,
+        "Price":530,
+        "MRF":1000,
+        "ImageURL":"/image/500-virgin-coconut-oil-250ml-for-cooking-skin-hair-care-with-original-imafayv7qsvempr2.jpeg",
+        "OfferText":"47%"
+    },
+    {
+        "Brandname":"Disano Extra Virgin Olive Oil",
+        "Productname":"Disano Extra Virgin Olive Oil Plastic Bottle  (1 L)",
+        "Quantity":"500 ml",
+        "TotalQuantity":0,
+        "Price":679,
+        "MRF":1250,
+        "ImageURL":"/image/1-plastic-bottle-extra-virgin-olive-oil-disano-original-imafjf6h38h7rpyd.jpeg",
+        "OfferText":"45%"
+    }
+
+]
