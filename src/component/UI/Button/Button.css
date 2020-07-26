@@ -1,10 +1,7 @@
 .Success {
     color: #5C9210;
-    /* margin-top: 20px; */
-    /* margin-left: -30px !important; */
     color: #ffffff;
     background: rgb(0, 210, 115);
-    /* padding: 5px; */
     border-radius: 10px;
     width: 145px;
     font-size: 16px;
@@ -12,4 +9,33 @@
     font-weight: 700;
     border: 1px solid rgb(0, 210, 115);
 }
+
+.Enter{
+    color: #5C9210;
+    color: #ffffff;
+    background: rgb(0, 210, 115);
+    border-radius: 10px;
+    width: 120px;
+    font-size: 16px;
+    height: 45px;
+    font-weight: 700;
+    border: 1px solid rgb(0, 210, 115);
+    margin-top: 10px;
+}
+
+.Clear{
+    color: #5C9210;
+    color: #ffffff;
+    background: rgb(0, 210, 115);
+    border-radius: 10px;
+    width: 120px;
+    font-size: 16px;
+    height: 45px;
+    font-weight: 700;
+    border: 1px solid rgb(0, 210, 115);
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
 

@@ -8,4 +8,26 @@
     top: 0;
     border-bottom: 8px solid rgb(0, 210 ,115);
     position: relative;
+    display: flex;
+    position: relative;
+    right:0;
+  }
+
+  .dashboard{
+    width: 50%;
+    margin-top: -10px;
+  }
+
+  .logout{
+    margin-left: -30px !important;
+    color: #ffffff;
+    background: rgb(0, 210, 115);
+    padding: 5px;
+    border-radius: 10px;
+    width: 145px;
+    font-size: 16px;
+    height: 45px;
+    font-weight: 700;
+    border: 1px solid rgb(0, 210, 115);
+    text-decoration: none;
   }

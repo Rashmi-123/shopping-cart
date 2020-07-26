@@ -6,6 +6,7 @@ const OrderSummary= (props) => {
             if (pro.TotalQuantity > 0) {
                 return <li key={pro.Brandname}>{pro.Brandname} : {pro.TotalQuantity}</li>
             }
+            return 0;
         })
 
         return (
